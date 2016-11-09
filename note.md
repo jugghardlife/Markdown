@@ -1,5 +1,1 @@
-# 新建md;
-
-[百度]（https://www.baidu.com）;
-
-@@@@
+利用git第一次新建笔记
