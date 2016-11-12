@@ -6,4 +6,4 @@
 
 [2016-11-9 笔记]{https://github.com/jugghardlife/Markdown/blob/master/NOTE2016-11-9.md}
 
-[2016-11-12 笔记]{}
+[2016-11-12 笔记]{https://github.com/jugghardlife/Markdown/blob/master/NOTE2016-11-12.md}
